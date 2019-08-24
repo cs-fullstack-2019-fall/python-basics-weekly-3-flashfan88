@@ -39,3 +39,6 @@ Before the program starts, ask the user for their account name and a pin number.
 
 
 # SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
+
+### Comments:
+Make sure that you put time into planning out projects. Three lines is not enough. You do not update the user's balance inside of your while loop which means you never have a running balance, that's a huge oversight. Make sure that you TEST your code before submission. Check out the inline comments I made in your code using "!!". Be sure to watch the video walkthrough of the asignment posted in the slack. 
